@@ -1,0 +1,10 @@
+{
+  "simulation": "SwaggerSimulation",
+  "simulationId": "swaggersimulation-20240822085836922",
+  "start": 1724317117867,
+  "description": "",
+  "scenarios": ["Swagger Petstore API Test"],
+  "assertions": [
+
+  ]
+}
